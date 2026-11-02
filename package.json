@@ -1,0 +1,14 @@
+{
+  "name": "safety-first",
+  "version": "1.0.0",
+  "description": "Safety First server and API",
+  "main": "safety-first.js",
+  "scripts": {
+    "start": "node safety-first.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.6.0",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0"
+  }
+}
